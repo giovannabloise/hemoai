@@ -14,7 +14,8 @@ Para treinamento, foram utilizadas bases do kaggle + curadoria manual de fotos d
 - **Bibliotecas necessárias**:
   - `numpy`
   - `click`
-  - `tensorflow` (ou `keras`)
+  - `tensorflow`
+  - `keras`
   - `Pillow`
 
 ## Instalação
