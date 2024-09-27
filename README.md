@@ -8,11 +8,7 @@ O script permite a identificação de condições hematológicas, como hemácias
 
 Para treinamento, foram utilizadas bases do kaggle + curadoria manual de fotos de esfregaço sanguíneo contendo hemácias normais, sangue infectado com tripanossoma, hemácias infectadas com plasmodium (anel de bacharel) e lâminas de anemia falciforme (drepanócitos).
 
-
-* Hemácias normais
-* Anemia Facilforme
-* Tripanossoma sp.
-* Plamodium sp..
+![image](https://github.com/user-attachments/assets/369a598f-9e2e-4fe6-874b-aff13e45c6ac)
 
 ## Requisitos
 - **Bibliotecas necessárias**:
