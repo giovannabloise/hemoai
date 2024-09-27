@@ -32,9 +32,11 @@ Para treinamento, foram utilizadas bases do kaggle + curadoria manual de fotos d
    ```bash
    git clone <URL_DO_REPOSITORIO>
    cd <NOME_DA_PASTA>
+   pip install .
+   ```
 
 ## Modo de Uso
 
 ```
 python hemoai.py --image-path path/to/your/image.jpg
-```# hemoai
+```
