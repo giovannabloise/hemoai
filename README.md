@@ -30,9 +30,7 @@ Para treinamento, foram utilizadas bases do kaggle + curadoria manual de fotos d
 2. Clone o repositório:
 
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DA_PASTA>
-   pip install .
+   pip install git+https://github.com/giovannabloise/hemoai/
    ```
 
 ## Modo de Uso
