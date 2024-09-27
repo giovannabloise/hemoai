@@ -1,0 +1,4 @@
+0 Hemacias Normais
+1 Anemia Falciforme
+2 Tripanossoma
+3 Plasmodium
