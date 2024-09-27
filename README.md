@@ -1,8 +1,8 @@
 # hemoAI :microscope:
 
-Uma ferramenta de machine learning para identificação de lâminas de sangue utilizando o Teachable Machine.
+Uma ferramenta de machine learning para identificação de lâminas de sangue utilizando o Teachable Machine (https://teachablemachine.withgoogle.com/).
 
-O script permite a identificação de condições hematológicas, como hemácias normais, anemia falciforme, malária e tripanossomíase, a partir de imagens de lâminas de sangue.
+O script permite a identificação de algumas condições hematológicas da série eritrocítica, como hemácias normais, anemia falciforme, malária e tripanossomíase, a partir de esfregaço sanguíneo.
 
 ## Treinamento do modelo
 
